@@ -1,0 +1,11 @@
+.item-list {
+  margin: 0 auto;
+  display: flex;
+  max-width: 500px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #5cc46f;
+  border-radius: 5px;
+  padding: 10px 5px;
+}

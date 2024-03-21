@@ -1,0 +1,13 @@
+.item {
+  border: 1px gray dashed;
+  padding: 0.5rem 1rem;
+  background-color: #6f5cc4;
+  margin: 3px 0;
+  border-radius: 10px;
+  color: white;
+  cursor: move;
+}
+
+.opacity-5 {
+  opacity: 0.1;
+}
